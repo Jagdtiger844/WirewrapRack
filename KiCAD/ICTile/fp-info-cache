@@ -1,4 +1,4 @@
-173101620
+1778863218683
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59349,6 +59349,13 @@ Crystal
 Resonator_SMD_Murata_TPSKA-3Pin_7.9x3.8mm_HandSoldering
 Murata TPSKA, Resonator/Filter, 7.9x3.8mm package, SMD, hand-soldering, generated with kicad-footprint-generator make_crystal.py, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf
 ceramic
+0
+3
+3
+Customs
+1206_3Way_Open
+
+
 0
 3
 3
